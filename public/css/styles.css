@@ -1,0 +1,48 @@
+.title{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 900;
+    font-size: 8rem;
+    padding: 5rem;
+}
+
+#signup{
+    background-color: bisque;
+    padding: 5% 10%;
+}
+
+.gif{
+    text-align: center;
+}
+
+input{
+    display: block;
+}
+.details{
+    display: block;
+    margin: 3% 5rem;
+}
+
+.btn{
+    margin-top: 10px;
+    
+}
+
+#footer{
+    padding-top:3%;
+    font-family: "Montserrat" , sans-serif;
+    text-align: center;
+}
+.social{
+    display: inline-block;
+    padding:7px 10px 0 10px;
+}
+
+#response{
+    background-color:  bisque ;
+    padding: 5% 10%;
+}
+
+.tryAgain{
+    margin-left: 7%;
+}
+
